@@ -1,0 +1,1 @@
+# yhg-assets-handler-releases
